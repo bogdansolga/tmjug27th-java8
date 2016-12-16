@@ -15,7 +15,7 @@ import java.util.function.Function;
  *
  * @author bogdan.solga
  */
-public class Java8vsTheIDEs {
+public class Java8IDEsIntegration {
 
     private static final List<String> words = new ArrayList<>(Arrays.asList("I want a holiday, not just a weekend".split("\\s")));
 
